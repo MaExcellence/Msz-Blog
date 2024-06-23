@@ -1,0 +1,1 @@
+import{_ as t,o as _,c as o,a as e}from"./app-1f8a5ff3.js";const s={},c=e("p",null,"微服务监控之Turbine聚合监控",-1),n=e("p",null,"参考上文Hystrix部分",-1),r=[c,n];function l(a,i){return _(),o("div",null,r)}const u=t(s,[["render",l],["__file","61.html.vue"]]);export{u as default};

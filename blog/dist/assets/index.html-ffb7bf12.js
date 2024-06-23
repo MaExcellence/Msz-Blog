@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-6d8225b4","path":"/tags/Springchangyongzhujie/1/","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{t as data};
