@@ -1,0 +1,1 @@
+import{_ as t,o,c as _,a as e}from"./app-3bb1037e.js";const c={},n=e("p",null,[e("strong",null,"微服务架构中的⼀些概念")],-1),s=[n];function l(r,a){return o(),_("div",null,s)}const f=t(c,[["render",l],["__file","35.html.vue"]]);export{f as default};

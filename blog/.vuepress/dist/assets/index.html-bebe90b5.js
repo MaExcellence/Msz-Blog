@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-a9dd2a9a","path":"/tags/RPCkuangjia/1/","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{a as data};
