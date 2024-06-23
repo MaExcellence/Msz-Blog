@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,b as _}from"./app-ad70bc3c.js";const c={},n=_("p",null,"Spring Cloud 规范及实现意图要解决的问题其实就是微服务架构实施过程中存在的⼀些问题，⽐如微服务架构中的服务注册发现问题、⽹络问题（⽐如熔断场景）、统⼀认证安全授权问题、负载均衡问题、链路追踪等问题。",-1),s=[n];function r(l,a){return t(),o("div",null,s)}const i=e(c,[["render",r],["__file","22.html.vue"]]);export{i as default};

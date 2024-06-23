@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as _,b as c}from"./app-ad70bc3c.js";const o={},s=c("p",null,"2.微服务架构体现的思想及优缺点",-1),n=[s];function r(a,l){return t(),_("div",null,n)}const f=e(o,[["render",r],["__file","34.html.vue"]]);export{f as default};
